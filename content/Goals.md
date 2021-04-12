@@ -8,11 +8,11 @@ image: "https://avatars3.githubusercontent.com/u/29895434?s=200&v=4"
 
 
 # What is our Goal ?
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo - abfkjln
- anim id est laborum."
+We at PSoc believe in *love for programming* and *community driven efforts.*
 
-- lorebl;osamfbklasdngkbabnslifb kjnkjb sakjfblikb j
-- lorebl;osamfbklasdngkbabnslifb kjnkjb sakjfblikb j
-- lorebl;osamfbklasdngkbabnslifb kjnkjb sakjfblikb j
-- lorebl;osamfbklasdngkbabnslifb kjnkjb sakjfblikb j
-- lorebl;osamfbklasdngkbabnslifb kjnkjb sakjfblikb j
+- to build a community of enthusiastic and dedicated coders who believe in learning and developing together.
+- to inculcate healthy interactions and competition among all.
+- to provide an active service learning group accessible to all.
+- to create a positive workspace where queries are addressed well and encouragement serves as the driving force.
+- to explore and encourage new technologies and ideas and provide a working ground for the same.
+- to equip the community with enough resources to promote shared values and learning.
