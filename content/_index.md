@@ -1,6 +1,6 @@
 ---
 title: "Programming Society"
 description: "IIIT - Bhubaneswar"
-icon: "https://cdn2.iconfinder.com/data/icons/bitsies/128/Lightbulb-512.png"
-background: "http://www.truelovemusic.co.uk/site/wp-content/uploads/2011/03/grey-background-square.jpg"
+icon: "https://i.imgur.com/wdMPUpw.jpg"
+background: "https://imgur.com/4fey1Kk.jpg"
 ---
