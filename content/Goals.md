@@ -3,7 +3,7 @@ title: "Goals"
 date: 2021-01-09T14:42:06+05:30
 draft: false
 description: "ubdfsnioanbufgnlkmd"
-image: "https://avatars3.githubusercontent.com/u/29895434?s=200&v=4"
+image: "https://i.imgur.com/wdMPUpw.jpg"
 ---
 
 
