@@ -1,5 +1,7 @@
 ---
-title: Recordings
+title: "Recordings"
+date: 2021-04-17T19:10:58+05:30
+draft: false
 ---
 - ## Mobile App Dev
     1. **[Link to Session 1]()**
@@ -12,4 +14,3 @@ title: Recordings
 
 - ## Web Development
     1. **[Link to Session 1]()**
-
