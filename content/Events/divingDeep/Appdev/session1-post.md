@@ -5,5 +5,5 @@ draft: false
 ---
 
 - ## Flutter Sessions:
-    * **[Session 01: Simple Interest Calculator](https://github.com/sudo-saksham/flutter_session01.git)**
+  - **[Session 01: Simple Interest Calculator](https://github.com/sudo-saksham/flutter_session01.git)**
 
