@@ -1,5 +1,5 @@
 ---
-title: "Session 01"
+title: "App Development Sessions"
 date: 2021-04-18T11:39:18+05:30
 draft: false
 ---
