@@ -11,7 +11,7 @@ draft: false
         - [Ashish Malik](https://www.linkedin.com/in/ashishmalik47/) - Casbin
         - [Aradhana Kund](https://www.linkedin.com/in/aradhanakund/) - Cuneiform Digital Library(CDLI)
     - **Outreachy 2021 selections**
-        - Abhipsha Das
+        - Abhipsha Das - Improve PyMC3 example notebooks for PyMC3 4.0 and Aesara
         - [Nirali Sahoo](https://www.linkedin.com/in/niralisahoo/) - WikiMedia
     - **GSoD 2021 selection**
         - [Abhishek Jaiswal](https://www.linkedin.com/in/abhishek-iiit/) -WeChaty
