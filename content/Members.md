@@ -1,5 +1,5 @@
 ---
-title: "Core Team"
+title: "Team"
 date: 2021-01-09T14:42:11+05:30
 draft: false
 ---
@@ -29,3 +29,9 @@ draft: false
 {{<profile name="Abhishek Mohanta"        link="https://www.linkedin.com/in/abhishek-mohanta-46550519b/">}}
 {{<profile name="Abhijit Biswal"          link="https://www.linkedin.com/in/abhijit-biswal/">}}
 {{<profile name="Saksham Gupta"           link="https://www.linkedin.com/in/saksham-gupta-986659191/">}}
+
+# Outreach Team
+{{<profile name="Rajdeep Golder"           link="https://www.facebook.com/rajdeep.golder.3">}}
+{{<profile name="Adarsh Kumar Singh"       link="adarsh06092002">}}
+{{<profile name="Mohammad Asim Khan"       link="https://www.linkedin.com/in/mohammad-asim-khan-51b8671b2">}}
+{{<profile name="Subhrajyoti Soumyadarsan" link="https://www.linkedin.com/in/subhrajyoti-soumyadarsan-5282a01b1">}}
