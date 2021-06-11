@@ -1,5 +1,5 @@
 ---
-title: "Session 1"
+title: "Session 2"
 date: 2021-06-04T08:21:49+05:30
 draft: false
 ---
