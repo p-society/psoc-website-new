@@ -16,4 +16,4 @@ draft: false
 - ## Web Development
     1. **[Getting started with WebDev](https://drive.google.com/file/d/1qx3FnukZzSIpV2P642skk19Ycsn2-0KW/view?usp=sharing)**
 
-**IIIT Domain is required for viewing these videos* 
+*IIIT Domain is required for viewing these videos* 
