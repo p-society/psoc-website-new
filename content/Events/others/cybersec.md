@@ -1,5 +1,5 @@
 ---
-title: "Cyber Security Workshop"
+title: "CyberSec Essentials"
 date: 2021-07-23T08:21:49+05:30
 draft: false
 ---
