@@ -1,9 +1,4 @@
----
-title: "Git & GitHub"
-date: 2021-10-04T14:55:49+05:30
-draft: false
----
-
+# Git & GitHub
 -   **Name of the event**  : Git & GitHub Session
 -   **Date of the Event**  : 3rd October, 2021
 -   **Date of the Event**  : 10:45AM - 12:00PM IST
