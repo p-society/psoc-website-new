@@ -1,5 +1,3 @@
-# SESSION 2 (Hackotber Fest)
-
 ---
 title: "What's next after CONTRIBUTING.md?"
 date: 12th October 2021
