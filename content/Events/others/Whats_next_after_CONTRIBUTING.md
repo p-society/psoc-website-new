@@ -1,9 +1,11 @@
 # SESSION 2 (Hackotber Fest)
 
+---
+title: "What's next after CONTRIBUTING.md?"
+date: 12th October 2021
+time: 5 PM-6 PM IST
+---
 
--    **Name of the Event:** "What's next after CONTRIBUTING.md? "
--    **Date of the Event:** 12th October 2021
--    **Time of the Event:** 5 PM-6 PM IST
 -    **Location of the Event:** Youtube
 -    **Average number of attendees:** 60
 -    **Society:** PSoc IIIT-Bh in collaboration with GDSC IIIT-Bh
