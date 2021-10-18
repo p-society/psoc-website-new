@@ -1,7 +1,7 @@
 ---
 title: "What's next after CONTRIBUTING.md?"
-date: 12th October 2021
-time: 5 PM-6 PM IST
+date: 2021-10-15T08:21:49+05:30
+draft: false
 ---
 
 -    **Location of the Event:** Youtube
@@ -25,4 +25,4 @@ The session was hosted by **Saksham Gupta** and **[Kartikey Rawat](https://githu
 
 
 
-It started with the usual introduction and formalities. Then **Mr. Rawat** straight on jumped to the main topic of the event i.e Open Source contributions. He started with his very own contribution, to the **Tensorflow.js** repo and stressed the importance of communicating with project maintainers. Then he went on to give details about his contribution and some workings of Tensorflow.js. He also emphasized the importance of the quality of your contributions rather than the quantity. He then shared his experience with GSoC. At last, he answered the questions of the attendees and gave some career advice to the young students in attendance. The event ended with **Mr. Gupta** thanking the guest for gracing us with his presence and sharing his valuable insights into the Open Source world.
+It started with the usual introduction and formalities. Then **Mr. Rawat** straight on jumped to the main topic of the event i.e Open Source contributions. He started with his very own contribution, to the **Tensorflow.js** repo and stressed the importance of communicating with project maintainers. Then he went on to give details about his contribution and some workings of Tensorflow.js. He also emphasized the importance of the quality of your contributions rather than the quantity. He then shared his experience with GSoC. At last, he answered the questions of the attendees and gave some career advice to the young students in attendance. The event ended with **Saaksham** thanking the guest for gracing us with his presence and sharing his valuable insights into the Open Source world.
