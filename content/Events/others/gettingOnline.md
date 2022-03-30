@@ -4,48 +4,53 @@ date: 2022-03-27T17:41:25+05:30
 draft: false
 ---
 
-## Prerequisites
+# Hugo Session Notes
 
-### A [Github account](https://github.com/signup)
+## Installation
 
-### [Hugo](https://gohugo.io/getting-started/installing/)
+- Download the compatible .zip file from the link below
+https://github.com/gohugoio/hugo/releases
+(for 32-bit system - hugo_0.96.0_Windows-32bit.zip)
+(for 64-bit system - hugo_0.96.0_Windows-64bit.zip)
 
-> If you don't understand what's happening below, just skip over to "BUILDING FROM SOURCE". Or simply drop us a message on [discord](https://discord.gg/wtuq9bVA)
+- unzip the downloaded zip file
 
-#### Windows
+- open the unzipped folder and copy the location of the folder
 
-If you have [Chocolatey](https://chocolatey.org/) installed, run
-`choco install hugo -confirm`
+- search for 'environment variables' and open it
 
-Or if you have [Scoop](https://scoop.sh/), run
-`scoop install hugo`
+- Click on 'Environment Variables' and under 'System variables' click on 'Path'
 
-#### Linux
+![Step-1](https://i.imgur.com/tWhqgpC.png)
 
-If you have [HomeBrew](https://brew.sh/) installed, run
-`brew install hugo`
+then 'Edit' 
 
-(Or simply use your package manager)
+![Step-2](https://i.imgur.com/rM2keQU.png)
 
-#### MacOS
+then 'New' 
 
-If you have [MacPorts](https://www.macports.org/), run
-`port install hugo`
+![Step-3](https://i.imgur.com/6X0e5JA.png)
 
-or If you have [HomeBrew](https://brew.sh/) installed, run
-`brew install hugo`
+and then add the copied path.
 
-#### Building from Source
+![Step-4](https://i.imgur.com/n6yFFVN.png)
 
-- Download and install GoLang [(Windows)](https://go.dev/dl/go1.18.windows-amd64.msi)
-- Download and install Git [(Windows)](https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe)
-- Open a command prompt and run these commands:
-  - `mkdir %USERPROFILE%/src`
-  - `cd %USERPROFILE%/src`
-  - `git clone https://github.com/gohugoio/hugo.git`
-  - `cd hugo`
-  - `go install`
+- Open powershell and type the command - `hugo version`
 
-### Any Code Editor (other than notepad :p)
+(If you see something like this:
+```
+hugo v0.96.0-2fd4a7d3d6845e75f8b8ae3a2a7bd91438967bbb windows/amd64 BuildDate=2022-03-26T09:15:58Z VendorInfo=gohugoio
+```
+then hugo was successfully installed on your system.
 
-Recommended ones are VS Code and Sublime Text.
+## Next Step
+
+- ` hugo new site portfolio `
+- ` cd portfolio `
+- extract your fav theme in ` theme ` folder
+- edit ` config.toml ` (
+basically add your theme's name in 
+`theme = "gohugo-theme-ananke-master"`
+)
+- add content to your website by ` hugo new post/firstPost `
+- ` hugo server -D ` to see your site on ` http://localhost:1313 `
