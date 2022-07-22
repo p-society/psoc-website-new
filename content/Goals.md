@@ -1,6 +1,6 @@
 ---
 title: "Goals"
-date: 2021-01-09T14:42:06+05:30
+date: 22 July 2022 12:32:08
 draft: false
 description: "ubdfsnioanbufgnlkmd"
 image: "https://i.imgur.com/wdMPUpw.jpg"
