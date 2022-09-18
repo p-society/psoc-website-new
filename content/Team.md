@@ -61,7 +61,8 @@ draft: false
 
 ## CP
 ### [Siddhant srivastav](http://www.linkedin.com/in/siddhant-srivastav-8a5877229)
-
+### [Deepak]()
+### [Raj Alpha](https://www.linkedin.com/in/rajalphaswain/)
 ## Cybersec
 ### [Subrat Kumar Swain](https://www.linkedin.com/in/subrat-kumar-swain-7a0416249)
 
