@@ -59,6 +59,9 @@ draft: false
 ### [Aman Modi](http://linkedin.com/in/amanmodiii/)
 ### [Lavesh Saluja ](https://www.linkedin.com/in/lavesh-saluja-5a2751239)
 
+## Mobile
+### [Sipra Mohanty](https://www.linkedin.com/in/shipra-mohanty-3876a1252)
+
 ## CP
 ### [Siddhant srivastav](http://www.linkedin.com/in/siddhant-srivastav-8a5877229)
 ### [Deepak]()
