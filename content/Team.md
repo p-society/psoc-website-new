@@ -41,7 +41,7 @@ draft: false
 
 ## CP
 ### [Siddhant Srivastav](http://www.linkedin.com/in/siddhant-srivastav-8a5877229)
-### [Deepak]()
+### [Deepak](https://www.linkedin.com/in/deepak-kamboj-77806922b)
 ### [Raj Alpha](https://www.linkedin.com/in/rajalphaswain/)
 ### [Yogesh Mundra](https://www.linkedin.com/in/yogesh-mundra-7126a322a)
 ### [Abhishek Gupta](https://www.linkedin.com/in/abhishek-gupta-704103228/)
