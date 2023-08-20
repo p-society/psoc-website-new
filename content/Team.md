@@ -14,7 +14,6 @@ draft: false
 # Members
 
 ## AI/ML
-### [B.Prithiraj](https://www.linkedin.com/in/b-prithiraj-330098187/)
 ### [Rohan Kumar Mohanty ](https://www.linkedin.com/in/rohan-mohanty-325927202/)
 ### [Ravi kumar](https://www.linkedin.com/in/ravi-kumar-5b3469230)
 ### [Abhipsha Dash](https://www.linkedin.com/in/abhipsha-dash-023523230/)
