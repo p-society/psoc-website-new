@@ -6,66 +6,46 @@ draft: false
 ---
 # Heads
 
-### [Simran Pattnaik](https://www.linkedin.com/in/simran-pattnaik-iiitbbsr/)
+### [Sai Simran Patro](https://www.linkedin.com/in/sai-simran-patro-902633223/)
 
-### [Saurav Pati](https://www.linkedin.com/in/oyesaurav/)
-
-<br/><br/>
-
-# Leads
-
-### [Piyush Mishra](https://www.linkedin.com/in/piyushmishra965/) (*Web*)
-
-### [Raj Aryan](https://www.linkedin.com/in/raj-aryan-33aa861b9/) (*Web, Cloud*)
-
-### [Avash Mitra](https://www.linkedin.com/in/avash-mitra/) (*Web*)
-
-### [Simron Bhuyan](https://www.linkedin.com/in/simron-bhuyan-856b73205/) (*Cloud*)
-
-### [B Purnanand](https://www.linkedin.com/in/bonthu-purna-nand-335255212) (*Cloud*)
-
-### [Harshit Singh](https://www.linkedin.com/in/harshit-singh-7056361b9/) (*ML*)
-
-### [Ajay Jakkampudi](https://www.linkedin.com/in/ajay-jakkampudi-547827204/) (*ML*)
-
-### [Aryan Sinha](https://www.linkedin.com/in/aryan7781/) (*ML*)
-
-### [Sourav Biswal](https://www.linkedin.com/in/suman-sourav-biswal-974789211/) (*ML, content*)
-
-### [Ansh Chaturvedi](https://www.linkedin.com/in/ansh-chaturvedi-012929209/) (*CP*)
-
-### [Shubhasai Mohapatra](https://www.linkedin.com/in/shubhasai-mohapatra/) (*App*)
-
-### [Kunal Agrawal](https://www.linkedin.com/in/kunal-agrawal-68a3741b9/) (*App*)
-
-### [Mohammad Asim Khan](https://twitter.com/MdAsim_Khan) (*AR/VR*)
-
-### [Samrudhi Panda](https://www.linkedin.com/in/samrudhi-panda-56a818193/) (*Design*)
+### [Ravi Kumar](https://www.linkedin.com/in/ravi-kumar-5b3469230/)
 
 <br/><br/>
-# Members 
+# Members
 
 ## AI/ML
-### [B.Prithiraj](https://www.linkedin.com/in/b-prithiraj-330098187/)
 ### [Rohan Kumar Mohanty ](https://www.linkedin.com/in/rohan-mohanty-325927202/)
 ### [Ravi kumar](https://www.linkedin.com/in/ravi-kumar-5b3469230)
 ### [Abhipsha Dash](https://www.linkedin.com/in/abhipsha-dash-023523230/)
 ### [Sai Simran Patro](https://www.linkedin.com/in/sai-simran-patro-902633223)
 
 ## Web
-### [Baibhav Panda](https://www.linkedin.com/in/baibhav-kumar-panda-64908a1bb/)
 ### [Roshan Dash](https://www.linkedin.com/in/roshandash)
-### [Swoyam Siddharth Nayak](https://www.linkedin.com/in/swoyam2609/)
 ### [Aman Modi](http://linkedin.com/in/amanmodiii/)
 ### [Lavesh Saluja ](https://www.linkedin.com/in/lavesh-saluja-5a2751239)
+### [Kaniska behera](https://www.linkedin.com/in/kaniskaa-behera-b30b53145)
+### [Sangdil biswal](https://www.linkedin.com/in/sangdil-biswal-bb1ba2263)
+### [Yogesh Mundra](https://www.linkedin.com/in/yogesh-mundra-7126a322a)
+### [Pratik Tripathy](https://www.linkedin.com/in/pratik-tripathy-178915226/)
+### [Abhay rajpoot](https://www.linkedin.com/in/abhay-rajpoot-145131219/)
+### [Prerna sahu](https://www.linkedin.com/in/prerna-s-a38775226/)
+### [Abhiram](https://www.linkedin.com/in/abhiram-royals/)
+### [Rajnish kumar singh](https://www.linkedin.com/in/rajnish-kumar-singh-2241b321b)
 
-## Mobile
-### [Sipra Mohanty](https://www.linkedin.com/in/shipra-mohanty-3876a1252)
+## App
+### [Pratik Ranjan Sau](https://www.linkedin.com/in/pratikranjansau)
+### [Nitin Chandra Sahu](https://www.linkedin.com/in/nitinchandrasahu/)
+### [Priyanshu Yadav](https://www.linkedin.com/in/priyanshu-yadav-9b619a256)
+### [Swoyam Siddharth Nayak](https://www.linkedin.com/in/swoyam2609/)
 
 ## CP
-### [Siddhant srivastav](http://www.linkedin.com/in/siddhant-srivastav-8a5877229)
-### [Deepak]()
+### [Siddhant Srivastav](http://www.linkedin.com/in/siddhant-srivastav-8a5877229)
+### [Deepak](https://www.linkedin.com/in/deepak-kamboj-77806922b)
 ### [Raj Alpha](https://www.linkedin.com/in/rajalphaswain/)
+### [Yogesh Mundra](https://www.linkedin.com/in/yogesh-mundra-7126a322a)
+### [Abhishek Gupta](https://www.linkedin.com/in/abhishek-gupta-704103228/)
+### [Jyotideep Acharjee](https://www.linkedin.com/in/jyotideep-acharjee-43b7361a6/)
+
 ## Cybersec
 ### [Subrat Kumar Swain](https://www.linkedin.com/in/subrat-kumar-swain-7a0416249)
 
@@ -73,3 +53,4 @@ draft: false
 
 ### [Sneha Mandal ](http://github.com/sm-creative-crazy4code)
 ### [Aabhas Agarwal ](https://www.linkedin.com/in/aabhas-agarawal-a86900244)
+### [Sangram Dash ](https://www.linkedin.com/in/sangram-dash-686782249/)
