@@ -6,9 +6,9 @@ draft: false
 ---
 # Heads
 
-### [Simran Pattnaik](https://www.linkedin.com/in/simran-pattnaik-iiitbbsr/)
+### [Sai Simran Patro](https://www.linkedin.com/in/sai-simran-patro-902633223/)
 
-### [Saurav Pati](https://www.linkedin.com/in/oyesaurav/)
+### [Ravi Kumar](https://www.linkedin.com/in/ravi-kumar-5b3469230/)
 
 <br/><br/>
 # Members
@@ -23,7 +23,6 @@ draft: false
 ## Web
 ### [Roshan Dash](https://www.linkedin.com/in/roshandash)
 ### [Aman Modi](http://linkedin.com/in/amanmodiii/)
-### [Swoyam Siddharth Nayak](https://www.linkedin.com/in/swoyam2609/)
 ### [Lavesh Saluja ](https://www.linkedin.com/in/lavesh-saluja-5a2751239)
 ### [Kaniska behera](https://www.linkedin.com/in/kaniskaa-behera-b30b53145)
 ### [Sangdil biswal](https://www.linkedin.com/in/sangdil-biswal-bb1ba2263)
@@ -38,6 +37,7 @@ draft: false
 ### [Pratik Ranjan Sau](https://www.linkedin.com/in/pratikranjansau)
 ### [Nitin Chandra Sahu](https://www.linkedin.com/in/nitinchandrasahu/)
 ### [Priyanshu Yadav](https://www.linkedin.com/in/priyanshu-yadav-9b619a256)
+### [Swoyam Siddharth Nayak](https://www.linkedin.com/in/swoyam2609/)
 
 ## CP
 ### [Siddhant Srivastav](http://www.linkedin.com/in/siddhant-srivastav-8a5877229)
